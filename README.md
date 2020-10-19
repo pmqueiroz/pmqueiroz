@@ -1,30 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img align="right" src="https://user-images.githubusercontent.com/54639269/90529186-cf007f80-e149-11ea-81c1-619a2ff92183.png" width="370"/>
 
-## Getting Started
+## Pedro Queiroz
 
-First, run the development server:
+Enthusiast of the best web & mobile development technologies. Initiating with ReactJS, Node.js, React Native & Typescript, Python and others technologies.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+“The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+-Bill Gates
 
-## Learn More
+--------
 
-To learn more about Next.js, take a look at the following resources:
+<div align="center">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<a href="https://www.linkedin.com/in/pmqueiroz/"><img src="https://img.shields.io/badge/-PedroQueiroz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pmqueiroz/" alt="Linkedin"/></a>
+<a href="mailto:contact@pmqueiroz.me"><img src="https://img.shields.io/badge/-contact@pmqueiroz.me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contact@pmqueiroz.me" alt="Gmail"/></a>
+<a href="https://app.rocketseat.com.br/me/pedro-queiroz-1566986867"><img src="https://img.shields.io/badge/-Pedro%20Queiroz-%239466FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" alt="Rocktseat"/></a>
+<a href="discord://"><img src="https://img.shields.io/badge/-peam%234119-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord://" alt="Discord"/></a>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+</div>
 
-## Deploy on Vercel
+<a href="https://github.com/pmqueiroz/goBarber"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pmqueiroz&repo=goBarber" alt="ReadMe Card"/></a>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<div align="right">
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br>
+<br>
+Currently working on an appointment and schedules project made during the goStack Bootcamp, if you want to know more about this project click on the image aside.
+
+</div>
+
+
+<!---
+<a href="https://github.com/pmqueiroz/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pmqueiroz&show_icons=true" />
+</a>
+-->
