@@ -46,8 +46,7 @@ a {
    --color-background: #EDF2F8;
    --color-text-in-primary: #FFFFFF;
    --color-text-base: #666666;
-
-   --color-primary-hover: #4953B8;
+   
    --color-twitter: #2AA9E0;
    --color-secondary-green: #4CD62B;
    --color-secondary-red: #E83F5B;

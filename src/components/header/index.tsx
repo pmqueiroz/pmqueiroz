@@ -16,7 +16,9 @@ export default function Header () {
             <Link href="/contact" isActive={router.pathname === '/contact'} >contact</Link>
             <Link href="/about-me" isActive={router.pathname === '/about-me'} >about me</Link>
          </nav>
-         <Button icon={FiPlus} />
+         <button>
+            <FiPlus size={18}/>
+         </button>
       </Container>
    );
 }
