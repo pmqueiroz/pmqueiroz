@@ -18,6 +18,7 @@ body {
 
 body, input, textarea, button {
    font: 400 1rem 'Noto Sans';
+   color: var(--color-text-base);
 }
 
 button {
@@ -41,16 +42,16 @@ a {
 }
 ::-webkit-scrollbar-corner { background: transparent; }
 :root{
-   --color-background: #C8BFBF;
+   --color-primary: #454CAB;
+   --color-background: #EDF2F8;
+   --color-text-in-primary: #FFFFFF;
+   --color-text-base: #666666;
 
-   --color-white: #FFFFFF;
-   --color-primary: #5965E0;
    --color-primary-hover: #4953B8;
    --color-twitter: #2AA9E0;
    --color-secondary-green: #4CD62B;
    --color-secondary-red: #E83F5B;
    --color-gray-line: #DCDDE0;
-   --color-text-base: #666666;
    --color-text-title: #2E384D;
    --color-text-highlight: #B3B9FF;
 }
