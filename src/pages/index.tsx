@@ -1,14 +1,13 @@
 import Head from 'next/head';
+import LinkTree from '../components/LinkTree';
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>@pmqueiroz</title>
       </Head>
-
-      <h1>Hello World</h1>
+      <LinkTree />
     </div>
-  );
+  )
 }
