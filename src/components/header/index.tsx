@@ -1,5 +1,7 @@
 import { Container, Link } from './styles';
+import { FiPlus } from 'react-icons/fi';
 import { useRouter } from 'next/router';
+import Button from '../button';
 
 export default function Header () {
    const router = useRouter();
@@ -14,7 +16,7 @@ export default function Header () {
             <Link href="/contact" isActive={router.pathname === '/contact'} >contact</Link>
             <Link href="/about-me" isActive={router.pathname === '/about-me'} >about me</Link>
          </nav>
-         <button>quaqluercoisa</button>
+         <Button icon={FiPlus} />
       </Container>
    );
 }
