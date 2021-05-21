@@ -20,14 +20,14 @@ Enthusiast of the best web & mobile development technologies. Initiating with Re
 
 </div>
 
-<a href="https://github.com/pawee-space/frontpage"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pawee-space&repo=frontpage" alt="ReadMe Card"/></a>
+<a href="https://github.com/pmqueiroz/mask-wizard"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pmqueiroz&repo=mask-wizard" alt="ReadMe Card"/></a>
 
 <div align="right">
 
 <br>
 <br>
 
-Currently working on a pet adoption application...
+Currently working on a open source npm package that provides string masks in various formats (feel free to contribute)...
 <!--
 Currently working on an appointment and schedules project made during the goStack Bootcamp, if you want to know more about this project click on the image aside.
 -->
