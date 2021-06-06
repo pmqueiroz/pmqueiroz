@@ -1,21 +1,21 @@
-import { Container, Link } from './styles';
-import { FiPlus } from 'react-icons/fi';
-import { useRouter } from 'next/router';
+// Packages
+import { Box } from 'rebass'
+import { useRouter } from 'next/router'
+
+// Components
+import { SearchBox } from '../searchBox'
+
+// Styles
+import { Wrapper } from './styles'
+import LinkTree from '../LinkTree'
 
 export default function Header () {
-   const router = useRouter();
+   const router = useRouter()
 
    return (
-      <Container>
-         <img src="logo.svg" alt="pmqueiroz"/>
-         <nav>
-            <Link href="/" isActive={router.pathname === '/'} >home</Link>
-            <Link href="/contact" isActive={router.pathname === '/contact'} >contact</Link>
-            <Link href="/about-me" isActive={router.pathname === '/about-me'} >about me</Link>
-         </nav>
-         <button>
-            <FiPlus size={18}/>
-         </button>
-      </Container>
+      <Wrapper>
+         <SearchBox placeholder="Discover"/>
+         <LinkTree/>
+      </Wrapper>
    );
 }

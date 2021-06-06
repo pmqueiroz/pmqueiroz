@@ -1,39 +1,19 @@
-import styled, { css } from 'styled-components';
+// Packages
+import styled, { css } from 'styled-components'
+import { Box } from 'rebass'
 
 type LinkProps = {
    isActive: boolean;
 }
 
-export const Container = styled.div`
+export const Wrapper = styled(Box)`
    width: 100%;
-   height: 5rem;
+   height: auto;
    display: flex;
+   padding: 5rem;
    align-items: center;
    justify-content: space-between;
-   padding: 0 3rem;
 
-   nav {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 3rem;
-   }
-
-   button {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding: 0.5rem;
-
-      border-radius: 50%;
-      transition: transform 0.2s;
-      background: var(--color-primary);
-      color: var(--color-text-in-primary);
-
-      &:hover {
-            transform: scale(1.2);
-      }
-
-   }
 `;
 
 export const Link = styled.a<LinkProps>`

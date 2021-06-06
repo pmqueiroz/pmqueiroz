@@ -43,7 +43,7 @@ a {
 ::-webkit-scrollbar-corner { background: transparent; }
 :root{
    --color-primary: #454CAB;
-   --color-background: #EDF2F8;
+   --color-background: #F5F7F9;
    --color-text-in-primary: #FFFFFF;
    --color-text-base: #666666;
    

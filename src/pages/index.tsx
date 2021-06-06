@@ -6,8 +6,8 @@ export default function Home() {
     <div>
       <Head>
         <title>@pmqueiroz</title>
+        <meta http-equiv="refresh" content="0; URL='/projects'"/>
       </Head>
-      <LinkTree />
     </div>
   )
 }
