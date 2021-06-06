@@ -7,7 +7,7 @@ export const Wrapper = styled(Box)`
    height: 4rem;
    border-radius: 2rem;
    background: #fff;
-   padding: 1rem;
+   padding: 0 1rem;
    align-items: center;
    display: flex;
    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
