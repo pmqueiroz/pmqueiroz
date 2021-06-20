@@ -1,14 +1,16 @@
-import { Box } from "rebass/styled-components"
+import { Box, Text } from "rebass/styled-components"
 import styled from "styled-components"
 
 const Wrapper = styled(Box)`
-   width: 15rem;
-   height: 15rem;
+   width: 100%;
+   height: 20rem;
    background-color: #fff;
    border-radius: 2rem;
    display: flex;
    justify-content: center;
-   align-items: center;
+   flex-direction: column;
+   align-items: start;
+   padding: 10%;
    cursor: pointer;
    transition: transform 0.2s;
    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
@@ -27,8 +29,8 @@ export const ProjectCard = (props: ProjectCardProps) => {
 
    return (
       <Wrapper>
-         <p>{name}</p>
-         <p>{description}</p>
+         <Text fontWeight="bold" fontSize="large">{name}</Text>
+         <Text>{description}</Text>
       </Wrapper>
    )
 }
