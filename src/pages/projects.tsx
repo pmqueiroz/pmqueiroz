@@ -1,6 +1,7 @@
-import styled from "styled-components"
+import styled from 'styled-components'
+import Head from 'next/head'
 
-import { ProjectCard } from "../components"
+import { ProjectCard } from '../components'
 
 const Wrapper = styled.div`
    width: 100%;
@@ -17,6 +18,10 @@ const sla = [1, 2, 3, 4, 5, 6, 7, 8]
 const Projects = () => {
    return (
       <Wrapper>
+         <Head>
+           <title>@pmqueiroz</title>
+         </Head>
+
          {sla.map((_, key) => <ProjectCard key={key} name="Pawee" description="Pet Adoption App" />)}
       </Wrapper>
    )

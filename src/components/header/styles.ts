@@ -22,6 +22,6 @@ export const Link = styled.a<LinkProps>`
 
    ${(props) => props.isActive === true
       && css`
-         color: var(--color-primary);
+         color: ${props => props.theme.colors.pink};
    `}
 `;

@@ -5,7 +5,7 @@ import { Frame } from '../'
 
 const Wrapper = styled.div`
    width: 33vw;
-   background: #fff;
+   background: ${props => props.theme.colors.lightGray};
    height: 100%;
    display: flex;
    justify-content: start;

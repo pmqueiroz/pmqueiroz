@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import { theme } from './theme'
 
 export default createGlobalStyle`
    * {
@@ -12,13 +13,13 @@ export default createGlobalStyle`
    outline: none;
 }
 body {
-   background: var(--color-background);
+   background: ${theme.colors.darkGray};
    font-family: 'Noto Sans', sans-serif;
 }
 
 body, input, textarea, button {
    font: 400 1rem 'Noto Sans';
-   color: var(--color-text-base);
+   color: ${theme.colors.white};
 }
 
 button {
@@ -29,18 +30,7 @@ a {
    color: inherit;
    text-decoration: none;
 }
-::-webkit-scrollbar {
-   width: 0.4rem;
-}
-::-webkit-scrollbar-track {
-   background: transparent;
-   border-radius: 0.5rem;
-}
-::-webkit-scrollbar-thumb {
-   background: var(--color-primary);
-   border-radius: 0.5rem;
-}
-::-webkit-scrollbar-corner { background: transparent; }
+
 :root{
    --color-primary: #454CAB;
    --color-background: #F5F7F9;

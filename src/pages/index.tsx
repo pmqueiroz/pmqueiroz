@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import LinkTree from '../components/LinkTree';
 
 export default function Home() {
   return (

@@ -1,7 +1,8 @@
-import Header from '../components/header'
-import GlobalStyle from '../styles/global';
+import styled, { ThemeProvider } from 'styled-components'
 
-import styled from "styled-components"
+import { theme } from '../styles/theme'
+import Header from '../components/header'
+import GlobalStyle from '../styles/global'
 import { SideBox } from "../components/sideBox/side-box"
 
 const Wrapper = styled.div`
@@ -16,14 +17,16 @@ const Content = styled.div`
 
 function MyApp({ Component, pageProps }) {
   return (
-   <Wrapper>
-      <GlobalStyle />
-      <Content>
-         <Header />
-         <Component {...pageProps} />
-      </Content>
-      <SideBox/>
-   </Wrapper>
+     <ThemeProvider theme={theme}>
+      <Wrapper>
+         <GlobalStyle />
+         <Content>
+            <Header />
+            <Component {...pageProps} />
+         </Content>
+         <SideBox/>
+      </Wrapper>
+     </ThemeProvider>
   )
 }
 

@@ -4,7 +4,7 @@ import styled from "styled-components"
 const Wrapper = styled(Box)`
    width: 100%;
    height: 20rem;
-   background-color: #fff;
+   background-color: ${props => props.theme.colors.lightGray};
    border-radius: 2rem;
    display: flex;
    justify-content: center;

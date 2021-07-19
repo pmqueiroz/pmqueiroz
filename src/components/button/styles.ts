@@ -11,11 +11,11 @@ export const Container = styled.a<ButtonProps>`
    width: 4rem;
    height: 4rem;
 
-   color: var(--color-primary);
-   background: var(--color-text-in-primary);
+   color: ${props => props.theme.colors.white};
+   background: ${props => props.theme.colors.darkBlue};
    border-radius: 50%;
    transition: transform 0.2s;
-   box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
 
    &:hover {
          transform: scale(1.2);
@@ -23,8 +23,8 @@ export const Container = styled.a<ButtonProps>`
 
    ${(props) => props.isPrimary === true && 
       css`
-         background: var(--color-primary);
-         color: var(--color-text-in-primary);
+         background: ${props => props.theme.colors.purple};
+         color: ${props => props.theme.colors.white};
       `
    }
 `;
