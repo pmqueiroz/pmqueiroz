@@ -43,3 +43,10 @@ Currently working on an appointment and schedules project made during the goStac
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pmqueiroz&show_icons=true" />
 </a>
 -->
+
+<p align="center">
+  <a href="https://pmqueiroz.com/">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pmqueiroz&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<br>
