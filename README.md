@@ -2,18 +2,13 @@
 
 ## Pedro Queiroz
 
-Passionate about front web development, currently focused on ReactJs and it's all ecosystem frameworks and libraries such as NextJs, Styled Components, React Query (and almost all tanstack), etc. In a relationship with Typescript (mostly I'm the jealous one)
-
-> “The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”
-> 
-> -Bill Gates
-
+Currently working as web software engineer in Stone, a leading company in the Brazilian fintech industry. Developing a multi-brand, multi-theme design system for the entire financial platform of Stone Co.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pmqueiroz/"><img src="https://img.shields.io/badge/-PedroQueiroz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pmqueiroz/" alt="Linkedin"/></a>
-<a href="mailto:contato@pmqueiroz.com"><img src="https://img.shields.io/badge/-contato@pmqueiroz.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@pmqueiroz.com" alt="Gmail"/></a>
-<a href="discord://"><img src="https://img.shields.io/badge/-peam%234119-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord://" alt="Discord"/></a>
+<a href="https://www.linkedin.com/in/pmqueiroz/"><img src="https://img.shields.io/badge/-pmqueiroz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pmqueiroz/" alt="Linkedin"/></a>
+<a href="mailto:contact@pmqueiroz.dev"><img src="https://img.shields.io/badge/-contact@pmqueiroz.dev-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contact@pmqueiroz.dev" alt="Gmail"/></a>
+<a href="discord://"><img src="https://img.shields.io/badge/-peamqueiroz-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord://" alt="Discord"/></a>
   
 <!--
 <a href="https://app.rocketseat.com.br/me/pedro-queiroz-1566986867"><img src="https://img.shields.io/badge/-Pedro%20Queiroz-%239466FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" alt="Rocktseat"/></a>
