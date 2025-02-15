@@ -40,8 +40,8 @@ Currently working on an appointment and schedules project made during the goStac
 -->
 
 <p align="center">
-  <a href="https://pmqueiroz.com/">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pmqueiroz&theme=tokyonight&hide_border=true" />
+  <a href="https://pmqueiroz.dev/">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=pmqueiroz&theme=github-dark&hide_border=true&mode=weekly" />
   </a>
 </p>
 <br>
